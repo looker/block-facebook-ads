@@ -19,7 +19,7 @@ remote_dependency: app-marketing-facebook-ads {
 }
 
 local_dependency: {
-  project: "block-facebook-ads-config"
+  project: "@{CONFIG_PROJECT_NAME}"
 }
 
 constant: CONFIG_PROJECT_NAME {
