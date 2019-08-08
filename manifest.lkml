@@ -20,6 +20,9 @@ remote_dependency: app-marketing-facebook-ads {
 
 local_dependency: {
   project: "@{CONFIG_PROJECT_NAME}"
+  override_constant: FACEBOOK_SCHEMA {
+    value: "@{FACEBOOK_SCHEMA}"
+  }
 }
 
 constant: CONFIG_PROJECT_NAME {
