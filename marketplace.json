@@ -27,7 +27,7 @@
   "auxiliary_projects": [
     {
       "git_uri": "git://github.com/looker/block-facebook-ads-config.git",
-      "git_ref": "9cafd2ed90b4c4a180e09ca5a0f618623915abfc",
+      "git_ref": "dab8badd1f71ae3daaf43f530989f933c8a603ea",
       "label": "Facebook Ads Config",
       "constant_name": "CONFIG_PROJECT_NAME"
     }
