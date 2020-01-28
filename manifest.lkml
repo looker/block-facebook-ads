@@ -30,7 +30,6 @@ constant: CONFIG_PROJECT_NAME {
   export: override_required
 }
 
-# TODO: Update connection
 constant: CONNECTION_NAME {
   value: "looker_application"
   export: override_required
