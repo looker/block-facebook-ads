@@ -10,7 +10,7 @@ The LookML constants are used to specify the name of the schema and connection. 
 
 ### Block Info
 
-This Block is modeled on the schema from Fivetrans's [Facebook Ads ETL](https://fivetran.com/directory/facebook-ads-insights) brought over with Looker-specific [connector] (https://fivetran.com/integrations/facebook_ads_for_looker).
+This Block is modeled on the schema from Fivetrans's [Facebook Ads ETL](https://fivetran.com/directory/facebook-ads-insights) brought over with Looker-specific connector (https://fivetran.com/integrations/facebook_ads_for_looker).
 
 The schema documentation for Facebook Ads can be found in [Facebook's docs](https://developers.facebook.com/docs/marketing-api/insights/breakdowns).
 
