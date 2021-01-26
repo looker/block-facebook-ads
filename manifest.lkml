@@ -15,7 +15,7 @@ remote_dependency: app-marketing-facebook-ads-adapter {
 
 remote_dependency: app-marketing-facebook-ads {
   url: "git://github.com/looker/app-marketing-facebook-ads"
-  ref: "7ec664da128053e1ad9073b015f731e0e14aa974"
+  ref: "e61b70352ebdb280c6cb4eaf278d60dfb5eaab82"
 }
 
 local_dependency: {
