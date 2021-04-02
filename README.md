@@ -1,5 +1,7 @@
 # Facebook Ads Block
 
+THIS BLOCK IS DEPRECATED AS OF 4/2/2021.
+
 This repository contains views and explores used for the Facebook Ads Block dashboards. There are 5 dashboards that come with this block: Facebook Overview, Facebook Ads - Clicks, Facebook Ads - Conversions, Facebook Ads - Impressions and Facebook Ads - Spend. Each of the dashboards provides in-depth analysis of ad/campaign performance over a given timeframe.
 
 This project is remotely included through the Facebook Ads Block Config project.
